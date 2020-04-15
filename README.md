@@ -1,4 +1,5 @@
 # datamining-project 
+This project was written as part of the course "Data Mining" during my degree.
 the full project is in the 
 '[project.ipynb](https://github.com/YPshir/datamining-project/blob/master/project.ipynb)' file.  
 you can see an introduction in the 
