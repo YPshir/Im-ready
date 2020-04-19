@@ -34,6 +34,22 @@ Pandas take data in a CSV or TSV file or a SQL database and create a Python obje
   3. Impute missing files, handle missing data or NANs  
   4. Plot data with histogram or box plot  
   
+  ### *[NumPy](https://numpy.org/)*      
+One of the most fundamental packages in Python, NumPy is a general-purpose array-processing package. It provides high-performance multidimensional array objects and tools to work with the arrays. NumPy is an efficient container of generic multi-dimensional data.
+NumPy’s main object is the homogeneous multidimensional array. It is a table of elements or numbers of the same datatype, indexed by a tuple of positive integers. In NumPy, dimensions are called axes and the number of axes is called rank. NumPy’s array class is called ndarray aka array.  
+###### I used NumPy in the processes:  
+  1. Basic array operations: add, multiply, slice, flatten, reshape, index arrays  
+  2. Advanced array operations: stack arrays, split into sections, broadcast arrays  
+  3. Work with DateTime or Linear Algebra  
+  4. Basic Slicing and Advanced Indexing in NumPy Python  
+  
+  ### *[SciPy](https://www.scipy.org/)*      
+The SciPy library is one of the core packages that make up the SciPy stack. SciPy builds on the NumPy array object and is part of the stack which includes tools like Matplotlib, Pandas, and SymPy with additional tools,
+SciPy library contains modules for efficient mathematical routines as linear algebra, interpolation, optimization, integration, and statistics. The main functionality of the SciPy library is built upon NumPy and its arrays. SciPy makes significant use of NumPy.  
+###### I used SciPy in the processes:  
+ scipy.cluster.hierarchy for the hierarchy module provides functions for hierarchical and agglomerative clustering. Its features include generating hierarchical clusters from distance matrices, calculating statistics on clusters, cutting linkages to generate flat clusters, and visualizing clusters with dendrograms.  
+ 
+ 
   
   
   
