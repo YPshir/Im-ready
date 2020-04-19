@@ -49,6 +49,22 @@ SciPy library contains modules for efficient mathematical routines as linear alg
 ###### I used SciPy in the processes:  
  scipy.cluster.hierarchy for the hierarchy module provides functions for hierarchical and agglomerative clustering. Its features include generating hierarchical clusters from distance matrices, calculating statistics on clusters, cutting linkages to generate flat clusters, and visualizing clusters with dendrograms.  
  
+   ### *[Matplotlib](https://matplotlib.org/)*      
+Matplotlib is the plotting library for Python that provides an object-oriented API for embedding plots into applications. It is a close resemblance to MATLAB embedded in Python programming language.  
+You can create stories with the data visualized with Matplotlib.
+With a bit of effort and tint of visualization capabilities, with Matplotlib, you can create just any visualizations.  
+###### I used Matplotlib in the processes:  
+Histogram, bar charts, scatter plots, area plot to pie plot, Scatter plots, pie charts.  
+
+   ### *[Seaborn](https://seaborn.pydata.org/)*      
+data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics. seaborn is an extension of Matplotlib with advanced features.
+Matplotlib is used for basic plotting; bars, pies, lines, scatter plots and stuff whereas, seaborn provides a variety of visualization patterns with less complex and fewer syntax.  
+###### I used Seaborn in the processes:  
+  1. Determine relationships between multiple variables (correlation)  
+  2. Analyze uni-variate or bi-variate distributions and compare them between different data subsets  
+  3. Plot linear regression models for dependent variables  
+  4. Provide high-level abstractions, multi-plot grids
+ 
  
   
   
