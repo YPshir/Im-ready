@@ -21,8 +21,8 @@ you can see an introduction in the
   * Focus on large data sets and databases  
   * Data mining can answer questions that cannot be addressed through simple query and reporting techniques.
   
-  ### Programming language and tools  
-  I wrote this project in the Python software language in the Jupyter Notebook environment, which contains many directories for   realizing and executing data mining processes.   
+  ### Main Tools  
+  I wrote this project in the Python programming language in the Jupyter Notebook environment, which contains many directories for   realizing and executing data mining processes.   
   
   ### *[Pandas](https://pandas.pydata.org/)*      
   Pandas is an open-source Python package that provides high-performance, easy-to-use data structures and data analysis tools for the   labeled data in Python programming language. Pandas stand for Python Data Analysis Library.   
