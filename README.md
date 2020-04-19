@@ -77,10 +77,10 @@ Scikit-learn provides a range of supervised and unsupervised learning algorithms
   6. Pre-processing: Preparing input data as a text for processing with machine learning algorithms.  
   
   
-  ### *[Scikit Learn](https://scikit-learn.org/stable/)*      
+  ### *[Statsmodels](https://www.statsmodels.org/stable/index.html)*      
 Scikit Learn is a robust machine learning library for Python. It features ML algorithms like SVMs, random forests, k-means clustering, spectral clustering, mean shift, cross-validation and more. NumPy, SciPy and related scientific operations are supported by Scikit Learn with Scikit Learn being a part of the SciPy Stack.
 Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. Supervised learning models like Naive Bayes to grouping unlabeled data such as KMeans, Scikit learn would be your go-to.  
-###### I used Scikit Learn in the processes:  
+###### I used Statsmodels Learn in the processes:  
   1. Classification: Spam detection, image recognition  
   2. Clustering: Drug response, Stock price  
   3. Regression: Customer segmentation, Grouping experiment outcomes  
