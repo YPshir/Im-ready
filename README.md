@@ -21,10 +21,20 @@ you can see an introduction in the
   * Focus on large data sets and databases  
   * Data mining can answer questions that cannot be addressed through simple query and reporting techniques.
   
-  
   ### Programming language and tools  
-  I wrote this project in the Python software language in the Jupyter Notebook environment, which contains many directories for   realizing and executing data mining processes.  
-  #### [Pandas](https://pandas.pydata.org/)  
+  I wrote this project in the Python software language in the Jupyter Notebook environment, which contains many directories for   realizing and executing data mining processes.   
+  
+  ### *[Pandas](https://pandas.pydata.org/)*      
+  Pandas is an open-source Python package that provides high-performance, easy-to-use data structures and data analysis tools for the   labeled data in Python programming language. Pandas stand for Python Data Analysis Library.   
+  Pandas is a perfect tool for data wrangling or munging. It is designed for quick and easy data manipulation, reading, aggregation, and visualization.
+Pandas take data in a CSV or TSV file or a SQL database and create a Python object with rows and columns called a data frame. The data frame is very similar to a table in statistical software, say Excel or SPSS.  
+###### I used Pandas in the processes:  
+  1. Indexing, manipulating, renaming, sorting, merging data frame  
+  2. Update, Add, Delete columns from a data frame  
+  3. Impute missing files, handle missing data or NANs  
+  4. Plot data with histogram or box plot  
+  
+  
   
   
   
