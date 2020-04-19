@@ -56,14 +56,39 @@ With a bit of effort and tint of visualization capabilities, with Matplotlib, yo
 ###### I used Matplotlib in the processes:  
 Histogram, bar charts, scatter plots, area plot to pie plot, Scatter plots, pie charts.  
 
-   ### *[Seaborn](https://seaborn.pydata.org/)*      
+  ### *[Seaborn](https://seaborn.pydata.org/)*      
 data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics. seaborn is an extension of Matplotlib with advanced features.
 Matplotlib is used for basic plotting; bars, pies, lines, scatter plots and stuff whereas, seaborn provides a variety of visualization patterns with less complex and fewer syntax.  
 ###### I used Seaborn in the processes:  
   1. Determine relationships between multiple variables (correlation)  
   2. Analyze uni-variate or bi-variate distributions and compare them between different data subsets  
   3. Plot linear regression models for dependent variables  
-  4. Provide high-level abstractions, multi-plot grids
+  4. Provide high-level abstractions, multi-plot grids  
+  
+  ### *[Scikit Learn](https://scikit-learn.org/stable/)*      
+Scikit Learn is a robust machine learning library for Python. It features ML algorithms like SVMs, random forests, k-means clustering, spectral clustering, mean shift, cross-validation and more. NumPy, SciPy and related scientific operations are supported by Scikit Learn with Scikit Learn being a part of the SciPy Stack.
+Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. Supervised learning models like Naive Bayes to grouping unlabeled data such as KMeans, Scikit learn would be your go-to.  
+###### I used Scikit Learn in the processes:  
+  1. Classification: Spam detection, image recognition  
+  2. Clustering: Drug response, Stock price  
+  3. Regression: Customer segmentation, Grouping experiment outcomes  
+  4. Dimensionality reduction: Visualization, Increased efficiency  
+  5. Model selection: Improved accuracy via parameter tuning  
+  6. Pre-processing: Preparing input data as a text for processing with machine learning algorithms.  
+  
+  
+  ### *[Scikit Learn](https://scikit-learn.org/stable/)*      
+Scikit Learn is a robust machine learning library for Python. It features ML algorithms like SVMs, random forests, k-means clustering, spectral clustering, mean shift, cross-validation and more. NumPy, SciPy and related scientific operations are supported by Scikit Learn with Scikit Learn being a part of the SciPy Stack.
+Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. Supervised learning models like Naive Bayes to grouping unlabeled data such as KMeans, Scikit learn would be your go-to.  
+###### I used Scikit Learn in the processes:  
+  1. Classification: Spam detection, image recognition  
+  2. Clustering: Drug response, Stock price  
+  3. Regression: Customer segmentation, Grouping experiment outcomes  
+  4. Dimensionality reduction: Visualization, Increased efficiency  
+  5. Model selection: Improved accuracy via parameter tuning  
+  6. Pre-processing: Preparing input data as a text for processing with machine learning algorithms.  
+  
+
  
  
   
