@@ -78,15 +78,13 @@ Scikit-learn provides a range of supervised and unsupervised learning algorithms
   
   
   ### *[Statsmodels](https://www.statsmodels.org/stable/index.html)*      
-Scikit Learn is a robust machine learning library for Python. It features ML algorithms like SVMs, random forests, k-means clustering, spectral clustering, mean shift, cross-validation and more. NumPy, SciPy and related scientific operations are supported by Scikit Learn with Scikit Learn being a part of the SciPy Stack.
-Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. Supervised learning models like Naive Bayes to grouping unlabeled data such as KMeans, Scikit learn would be your go-to.  
+Statsmodels is the ultimate Python package that provides easy computations for descriptive statistics and estimation and inference for statistical models.  
 ###### I used Statsmodels Learn in the processes:  
-  1. Classification: Spam detection, image recognition  
-  2. Clustering: Drug response, Stock price  
-  3. Regression: Customer segmentation, Grouping experiment outcomes  
-  4. Dimensionality reduction: Visualization, Increased efficiency  
-  5. Model selection: Improved accuracy via parameter tuning  
-  6. Pre-processing: Preparing input data as a text for processing with machine learning algorithms.  
+ A convenience interface for specifying models using formula strings and DataFrames. This API directly exposes the from_formula class method of models that support the formula API. Canonically imported using import statsmodels.formula.api as smf.  
+ 
+
+ 
+ 
   
 
  
