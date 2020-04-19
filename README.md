@@ -24,6 +24,8 @@ you can see an introduction in the
   
   ### Programming language and tools  
   I wrote this project in the Python software language in the Jupyter Notebook environment, which contains many directories for   realizing and executing data mining processes.  
+  #### [Pandas](https://pandas.pydata.org/)  
+  
   
   
   
