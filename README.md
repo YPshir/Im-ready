@@ -1,13 +1,11 @@
-# datamining-project  
-## introduction
- 
+# ‘I’m ready’  
+***Data Mining research and development  
+Analysis of Data and last statements of candidates for Capital punishment in Texas***  
+
 the full project is in the 
 '[project.ipynb](https://github.com/YPshir/datamining-project/blob/master/project.ipynb)' file.  
-you can see an introduction in the 
-'[read me.pdf](https://github.com/YPshir/datamining-project/blob/master/read%20me.pdf)' file.  
 
 ![2](https://user-images.githubusercontent.com/46241467/79245311-9e00fd00-7e80-11ea-9ff8-afd9e7670377.png)  
-  
   
   ## Implementation  
   For this project in the "Data Mining" course - chosen a topic and database for which we will perform the process.
@@ -78,19 +76,17 @@ Scikit-learn provides a range of supervised and unsupervised learning algorithms
   
   ### *[Statsmodels](https://www.statsmodels.org/stable/index.html)*      
 Statsmodels is the ultimate Python package that provides easy computations for descriptive statistics and estimation and inference for statistical models.  
-###### used Statsmodels Learn in:  
+###### used Statsmodels in:  
  A convenience interface for specifying models using formula strings and DataFrames. This API directly exposes the from_formula class method of models that support the formula API. Canonically imported using import statsmodels.formula.api as smf.  
  
+ 
+   ### *[NLTK](https://www.nltk.org/)*    
+   NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.  
+###### used NLTK in:  
+ 1. most common words from the latest statements of the death row candidates and sort them by each race of those candidates.  
+ 2. show most frequent 100 words not related to the diffrents races (by using WordCloud package).  
+ 3. through Sentiment Intensity Analyzer we are going to sort out the letters of confessions by negative, positive and neutral emotions.
+ 4. predict the gender of candidates by their first name using the n-gram algorithm we learned in the class.  
+ 
 
  
- 
-  
-
- 
- 
-  
-  
-  
-  
-  
-  
