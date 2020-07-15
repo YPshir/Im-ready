@@ -89,4 +89,11 @@ Statsmodels is the ultimate Python package that provides easy computations for d
  4. predict the gender of candidates by their first name using the n-gram algorithm we learned in the class.  
  
 
- 
+ ## Conclusion
+ * Gender - The gender of the victims is divided relatively evenly.  
+ * Race - Most of the defendants are of a white race similar to the race distribution in the country.  
+          A positive correlation was found between the race of the accused and the race of his victim, contrary to the prevailing hypothesis - "race war".
+ * Education - The vast majority of the defendants had 12 years of schooling and even some went on to higher education.  
+ * Criminal record - About half of the defendants do not have a criminal record and this is their first criminal offense.  
+ * Text Mining - Most of the statements contained words related to family life and names of relatives (parents / children). Also, the word God has been mentioned frequently.         
+                 80 percent of recent statements have a positive connotation despite the difficult situation they are in - their execution.
