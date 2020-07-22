@@ -54,20 +54,15 @@ Histogram, Bar Charts, Scatter Plots, Area Plot to Pie Plot, Scatter Plots and P
   5. Model selection: Improved accuracy via parameter tuning  
   6. Pre-processing: Preparing input data as a text for processing with machine learning algorithms.  
   
-  
-  ### *[Statsmodels](https://www.statsmodels.org/stable/index.html)*      
-
-###### used Statsmodels in:  
- A convenience interface for specifying models using formula strings and DataFrames. This API directly exposes the from_formula class method of models that support the formula API. Canonically imported using import statsmodels.formula.api as smf.  
- 
  
    ### *[NLTK](https://www.nltk.org/)*    
-   NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.  
-###### used NLTK in:  
- 1. most common words from the latest statements of the death row candidates and sort them by each race of those candidates.  
- 2. show most frequent 100 words not related to the diffrents races (by using WordCloud package).  
- 3. through Sentiment Intensity Analyzer we are going to sort out the letters of confessions by negative, positive and neutral emotions.
- 4. predict the gender of candidates by their first name using the n-gram algorithm we learned in the class.  
+
+###### Used NLTK for:  
+ 1. Find out the Most common words from the latest statements of the death row candidates and sort them by each race of those candidates.  
+ 2. Display the most frequent 100 words not related to the diffrents races (by using WordCloud package).  
+ 3. Used Sentiment Intensity Analyzer to sort out the letters of confessions by negative, positive and neutral emotions.  
+ 4. Gender prediction of inmates by their first name using the n-gram algorithm.  
+  
  
 
  ## Conclusion
