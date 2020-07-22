@@ -1,11 +1,12 @@
 # ‘I’m ready’  
-***Data Mining research and development  
-Analysis of Data and last statements of candidates for Capital punishment in Texas***  
+***An analysis of death row inmates data sets collection with a fixed set of attributes.
+   such as: race, gender, education level, their victims profile and their recent statements.***  
+   ***-Language and packages:*** Python,  Pandas, NumPy, Seaborn, Matplolib, Scikit Learn, NLTK.  
+   ***-Algorithms:*** Decision Tree, Naive Bayes, Nearest neighbor, Linear regression, etc.  
 
 the full project is in the 
 '[project.ipynb](https://github.com/YPshir/datamining-project/blob/master/project.ipynb)' file.  
 
-![2](https://user-images.githubusercontent.com/46241467/79245311-9e00fd00-7e80-11ea-9ff8-afd9e7670377.png)  
   
   ## Implementation  
   For this project in the "Data Mining" course - chosen a topic and database for which we will perform the process.
